@@ -9,5 +9,5 @@
 <details>
   <summary>2022年</summary>
 
-- [前端周刊第1期：(5.2-5.8)](./weekly/2022/01.md)
+- [前端周刊第1期：(5.2-5.8)](https://github.com/Mizxinp/bolg/issues/1)
 </details>
